@@ -12,3 +12,6 @@ doToElementsInArray(animals, changeCompletely)
 
 // log out animals -- pretty cool, right?
 console.log(animals)
+
+
+// Here is a new comment!
